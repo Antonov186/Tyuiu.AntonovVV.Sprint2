@@ -8,11 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="3wskqvky.kk0~" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.AntonovVV.Sprint2.Task1.V30.Lib\Tyuiu.AntonovVV.Sprint2.Task1.V30.Lib.csproj" />
+    <ProjectReference Include="..\Tyuiu.AntonovVV.Sprint2.Task2.V27.Lib\Tyuiu.AntonovVV.Sprint2.Task2.V27.Lib.csproj" />
   </ItemGroup>
 
 </Project>
